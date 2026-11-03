@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apk": "https://raw.githubusercontent.com/81Miralay81/video-indir/main/VideoIndir.apk",
-  "sha256": "9f63668f43e76379130a461650b771aeb4408c55dcee123bfde4fe34ac874860",
-  "notes": "Linklere dokununca Video İndir ile açma"
+  "sha256": "bd572dc4e8e4e9a55fb15a8be0e9e8fa55a7f710e814e1b69da97a1afc62c366",
+  "notes": "YouTube indirme, kalite/boyut seçimi, sadece ses seçeneği"
 }
