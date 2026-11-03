@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apk": "https://raw.githubusercontent.com/81Miralay81/video-indir/main/VideoIndir.apk",
-  "sha256": "b16150440038905cbc99ba99f845766f00ac67fd0e665358386b2b90c2d1ecec",
-  "notes": "Arka planda otomatik güncelleme, güncelleme sonrası kendini yeniden açma"
+  "sha256": "002d1c0f37b3a5cfb1a24e8e43a4cc695f12e137665257be710868dfc4bf3b3d",
+  "notes": "Güncelleme sadece uygulama açılınca denetlenir; arka plan kontrolü ve bildirimler kaldırıldı"
 }
