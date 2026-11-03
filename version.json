@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apk": "https://raw.githubusercontent.com/81Miralay81/video-indir/main/VideoIndir.apk",
-  "sha256": "002d1c0f37b3a5cfb1a24e8e43a4cc695f12e137665257be710868dfc4bf3b3d",
-  "notes": "Güncelleme sadece uygulama açılınca denetlenir; arka plan kontrolü ve bildirimler kaldırıldı"
+  "sha256": "91b21f2ae331131af4a1c273446addddd0854a40ea6af57607ded386a6030f6a",
+  "notes": "İndirmeden önce önizleme, WhatsApp durumları, paylaşılan dosyaları kaydetme, fotoğraf gönderileri"
 }
