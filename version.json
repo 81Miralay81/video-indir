@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apk": "https://raw.githubusercontent.com/81Miralay81/video-indir/main/VideoIndir.apk",
-  "sha256": "d1d972d4e9c60e792962aa0ff3c9b86b6dd2c16c852bbdba558a770c5a6dd1d5",
-  "notes": "YouTube ayarları uzaktan güncellenebilir"
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apk": "https://raw.githubusercontent.com/81Miralay81/video-indir/main/KanatixVideoIndir.apk",
+  "sha256": "1684de16ae1e9462ff7ae3105b860c56513f3da17fd365b089d462e812f808d3",
+  "notes": "Kanatix markası: yeni simge, üstte banner, uygulama adı Kanatix Video İndir, yeni indirmeler kanatix-tarih adıyla"
 }
