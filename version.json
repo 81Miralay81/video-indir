@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "1.9.1",
   "apk": "https://raw.githubusercontent.com/81Miralay81/video-indir/main/KanatixVideoIndir.apk",
-  "sha256": "1684de16ae1e9462ff7ae3105b860c56513f3da17fd365b089d462e812f808d3",
-  "notes": "Kanatix markası: yeni simge, üstte banner, uygulama adı Kanatix Video İndir, yeni indirmeler kanatix-tarih adıyla"
+  "sha256": "99a7a01e0c8d5af72705a41636bfae6e83fc5fa314edc731e108a53102502771",
+  "notes": "Zorunlu güncelleme: yeni sürümler artık ertelenemez"
 }
